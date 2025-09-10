@@ -6,6 +6,6 @@ frontend/build/
 backend/__pycache__/
 backend/*.pyc
 backend/.env
-backend/venvw
+backend/venvn
 # General
 .DS_Store
